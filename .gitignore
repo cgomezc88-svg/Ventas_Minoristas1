@@ -1,0 +1,16 @@
+# Ignorar archivos de Word de la maestría
+*.docx
+*.zip
+
+# Ignorar entorno virtual y sistema
+.venv/
+__pycache__/
+.DS_Store
+
+# Ignorar capturas de pantalla si no las quieres en el repo
+*.png
+*.jpg
+
+*.csv
+*.mp4
+*.txt
